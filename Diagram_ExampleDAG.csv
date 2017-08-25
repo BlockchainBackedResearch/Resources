@@ -1,0 +1,15 @@
+source,target,label
+Raw,Processed,processing scritpt {version:xx; params: xx; date:xx}
+Processed,OutputA,analysis script A
+Processed,OutputB,analysis script B
+OutputA,TableA,script for tableA
+OutputA,PlotA,script for plotA
+OutputA,InterpretationA,evidence for interpretationA
+OutputA,Final Product,script for product
+OutputA,User App,specs
+OutputB,TableB,script for tableB
+OutputB,PlotB,script for plotB
+OutputB,InterpretationB,evidence for interpretationB
+OutputB,Final Product,script for product
+OutputB,User App,specs
+Processed,Exploration,notebook script
